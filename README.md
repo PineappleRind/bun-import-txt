@@ -1,4 +1,4 @@
-# buntxttest
+# bun-import-txt
 
 To install dependencies:
 
